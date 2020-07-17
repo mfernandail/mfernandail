@@ -1,4 +1,4 @@
-### Hi my name is Maria Fernanda 👋
+### Hi, I'm Maria Fernanda 👋
 
 ```js
 export const mfernandai = {
