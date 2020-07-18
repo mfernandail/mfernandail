@@ -3,10 +3,10 @@
 ```js
 export const mfernandai = {
   pronouns: 'she' | 'her',
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'php'],
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'],
   tools: ['React', 'Redux', 'Node', 'Jest'],
   technologies: {
-    front-end: {
+    frontEnd: {
       js: ['React', 'React Native'],
       css: ['Bootstrap', 'Materialize']
     }
