@@ -9,7 +9,7 @@ export const mfernandai = {
     frontEnd: {
       js: ['React', 'React Native'],
       css: ['Bootstrap', 'Materialize']
-    }
+    },
     backEnd: {
       js: ['node', 'Enzyme']
     }      
