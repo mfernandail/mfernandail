@@ -3,8 +3,8 @@
 ```js
 export const mfernandai = {
   pronouns: 'she' | 'her',
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'],
-  tools: ['React', 'Redux', 'Node', 'Jest'],
+  code: ['Javascript', 'HTML', 'CSS', 'PHP'],
+  tools: ['React', 'NEXT', 'Gatsby', 'Redux', 'Node', 'Jest'],
   technologies: {
     frontEnd: {
       js: ['React', 'React Native'],
