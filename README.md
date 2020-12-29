@@ -3,15 +3,15 @@
 ```js
 export const mfernandai = {
   pronouns: 'she' | 'her',
-  code: ['Javascript', 'HTML', 'CSS', 'PHP'],
-  tools: ['React', 'NEXT', 'Gatsby', 'Redux', 'Node', 'Jest'],
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['React', 'NEXT js', 'Gatsby', 'Redux', 'Node', 'Jest'],
   technologies: {
     frontEnd: {
       js: ['React', 'React Native'],
-      css: ['Bootstrap', 'Materialize']
+      css: ['Bootstrap']
     },
     backEnd: {
-      js: ['node', 'Enzyme']
+      js: ['node', 'Express', 'Enzyme']
     }      
   }
 }
