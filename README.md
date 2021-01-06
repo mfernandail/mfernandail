@@ -11,7 +11,7 @@ export const mfernandai = {
       css: ['Bootstrap']
     },
     backEnd: {
-      js: ['node', 'Express', 'Enzyme']
+      js: ['node', 'Express']
     }      
   }
 }
