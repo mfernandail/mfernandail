@@ -1,18 +1,13 @@
 ### Hi, I'm Maria Fernanda 👋
 
 ```js
-export const mfernandai = {
+export const mafernanda = {
   pronouns: 'she' | 'her',
   code: ['Javascript', 'HTML', 'CSS'],
-  tools: ['React', 'NEXT js', 'Gatsby', 'Redux', 'Node', 'Jest'],
+  tools: ['Visual Studio Code', 'GitHub'],
   technologies: {
-    frontEnd: {
-      js: ['React', 'React Native'],
-      css: ['Bootstrap']
-    },
-    backEnd: {
-      js: ['node', 'Express']
-    }      
+      frontEnd: ['React', 'Next.js', 'Redux', 'Jest', 'Enzyme', 'Bootstrap'],
+      backEnd: ['Express', 'Pug', 'Mongodb', 'Postgresql']
   }
 }
 
