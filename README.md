@@ -3,11 +3,11 @@
 ```js
 export const mafernanda = {
   pronouns: 'she' | 'her',
-  code: ['Javascript', 'HTML', 'CSS'],
+  code: ['JavaScript', 'HTML', 'CSS'],
   tools: ['Visual Studio Code', 'GitHub'],
   technologies: {
-      frontEnd: ['React', 'Next.js', 'Redux', 'Jest', 'Enzyme', 'Bootstrap'],
-      backEnd: ['Express', 'Pug', 'Mongodb', 'Postgresql']
+      frontEnd: ['React', 'Next.js', 'Redux', 'Jest', 'Enzyme'],
+      backEnd: ['Node.js' 'Express.js', 'Pug', 'Mongodb', 'Firebase']
   }
 }
 
