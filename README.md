@@ -1,28 +1,28 @@
 ### Hi, I'm Maria Fernanda 👋
 
-```js
-export const mafernanda = {
-  pronouns: 'she' | 'her',
-  code: ['JavaScript', 'HTML', 'CSS'],
-  tools: ['Visual Studio Code', 'GitHub'],
-  technologies: {
-      frontEnd: ['React', 'Next.js', 'Redux', 'Jest', 'Enzyme'],
-      backEnd: ['Node.js' 'Express.js', 'Pug', 'Mongodb', 'Firebase']
-  }
-}
+# 🚀 María Fernanda | Full Stack Developer in Progress
 
-```
-<!--
-**mfernandail/mfernandail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Step by step, line by line — becoming a Full Stack Developer in one year.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+
+Become a Full Stack Developer in 12 months by learning, building, and sharing my progress.
+
+## 🧩 Skills I'm Building
+
+- **HTML & CSS** (structure, semantics, layout, styling)
+- **JavaScript** (foundations, DOM manipulation, asynchronous programming)
+- **Version Control** (Git & GitHub)
+- **Frontend Frameworks** (React.js)
+- **Backend Basics** (Node.js, Express)
+- **Databases** (MySQL)
+
+## 🧠 Why I'm Doing This
+
+I want to build strong, lasting skills — not just to land a job, but to create things I'm proud of.
+
+---
+> 📅 Started: April 2025  
+> 🛣️ Let's see how far I can go!
