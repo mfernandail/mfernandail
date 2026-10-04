@@ -5,9 +5,6 @@
 **Step by step, line by line**
 
 ---
-
-## 🎯 Goal
-
 ## 🧩 Skills I'm Building
 
 - **HTML & CSS** (structure, semantics, layout, styling)
