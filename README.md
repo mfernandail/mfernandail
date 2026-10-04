@@ -2,13 +2,11 @@
 
 # 🚀 María Fernanda | Full Stack Developer in Progress
 
-**Step by step, line by line — becoming a Full Stack Developer in one year.**
+**Step by step, line by line
 
 ---
 
 ## 🎯 Goal
-
-Become a Full Stack Developer in 12 months by learning, building, and sharing my progress.
 
 ## 🧩 Skills I'm Building
 
@@ -22,7 +20,3 @@ Become a Full Stack Developer in 12 months by learning, building, and sharing my
 ## 🧠 Why I'm Doing This
 
 I want to build strong, lasting skills — not just to land a job, but to create things I'm proud of.
-
----
-> 📅 Started: April 2025  
-> 🛣️ Let's see how far I can go!
