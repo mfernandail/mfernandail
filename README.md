@@ -2,7 +2,7 @@
 
 # 🚀 María Fernanda | Full Stack Developer in Progress
 
-**Step by step, line by line
+**Step by step, line by line**
 
 ---
 
